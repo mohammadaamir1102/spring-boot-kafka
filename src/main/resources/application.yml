@@ -24,3 +24,5 @@ kafka:
 service:
   topic:
     codeWithAamirTopic: topic_codeWithAamir
+  group:
+    group-id: aamirGroup
