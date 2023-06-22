@@ -22,7 +22,7 @@ public class TopicConfig {
     @Value("${kafka.consumer.concurrency.med}")
     public Integer mediumPartition;
 
-    @Value("${kafka.consumer.concurrency.replication-factor}")
+    @Value("${kafka.consumer.replication-factor}")
     public short replicationFactors;
 
     @Bean
