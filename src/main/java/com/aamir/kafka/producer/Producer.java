@@ -1,4 +1,4 @@
-package com.aamir.kafka.kafka.config.kafka.producer;
+package com.aamir.kafka.producer;
 
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;

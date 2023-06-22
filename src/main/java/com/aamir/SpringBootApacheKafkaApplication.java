@@ -1,4 +1,4 @@
-package com.aamir.kafka;
+package com.aamir;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
